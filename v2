@@ -1,6 +1,4 @@
-game.Players.LocalPlayer:Kick("Mod Team has BANNED you!")
-wait(3)
 while true do wait(0) 
 
-local A_1 = "im silent aiming and im super legit jk" local A_2 = "All" 
+local A_1 = "im exploiting VespW" local A_2 = "All" 
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) end
